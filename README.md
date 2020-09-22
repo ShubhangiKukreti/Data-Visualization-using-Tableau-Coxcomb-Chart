@@ -6,7 +6,7 @@ This project is a recreation of Nightingale's Rose Chart which portrays the caus
 
 Historic data was used to recreate the chart and Tableau Prep was used to prep the data and Tableau Desktop was used to craete the chart. The details of each sector can be observed by hovering the hosue over it. 
 
-![alt text]("https://user-images.githubusercontent.com/55923146/93861054-8eae9700-fcdd-11ea-8343-dd6442b84522.png")
+![alt text](https://user-images.githubusercontent.com/55923146/93861054-8eae9700-fcdd-11ea-8343-dd6442b84522.png)
 
 
 To interactively view the chart check out https://public.tableau.com/profile/shubhangi5052#!/vizhome/Data_Visualization_Nightingales_Rose_Chart/Sheet1
